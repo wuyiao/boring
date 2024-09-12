@@ -8,5 +8,5 @@ imu camera 温湿co2等传感器 喇叭 屏幕
 matter
 阿里云oss存储 华为云会议 腾讯云 百度小爱
 ffmpeg libwebsocket srs webrtc
-qt lvgl（linux windows android 设备）
+qt lvgl（ubuntu windows android 板子）
 再来个web
