@@ -1,5 +1,6 @@
 # x6
-boring play
+boring play 
+technical identification
 
 暂定
 bluetooth wifi zigbee 4g lora NBIOT 
